@@ -1,7 +1,7 @@
-![Outlook Account Generator Featured Image](https://raw.githubusercontent.com/omkarcloud/mass-mailer/master/images/mass-mailer-featured-image.png)
+![Mass Mailer Featured Image](https://raw.githubusercontent.com/omkarcloud/mass-mailer/master/images/mass-mailer-featured-image.png)
 
 <div align="center" style="margin-top: 0;">
-  <h1>🚀 Outlook Account Generator 📧</h1>
+  <h1>🚀 Mass Mailer 📧</h1>
   <p>💦 Send Bulk Mails 💦</p>
 </div>
 <em>
@@ -46,7 +46,7 @@ Ready to Rock n Roll? Let's get started!
 
 Watch this video to see the bot in action!
 
-[![Outlook Account Generator](https://raw.githubusercontent.com/omkarcloud/mass-mailer/master/images/youtube-video.png)](https://www.youtube.com/watch?v=RwCWcaKBahI)
+[![Mass Mailer](https://raw.githubusercontent.com/omkarcloud/mass-mailer/master/images/youtube-video.png)](https://www.youtube.com/watch?v=RwCWcaKBahI)
 
 ## 🚀 Getting Started
 
@@ -244,7 +244,7 @@ Outlook.get_latest_email(username, proxy="http://username:password@ip:port")
 
 ### ❓ Advanced Questions
 
-Having read this page, you have all the knowledge needed to effectively utilize the bot and ensure a never ending supply of outlook accounts.
+Having read this page, you have all the knowledge needed to effectively utilize the bot and send mass mails.
 
 You may choose to explore the following questions based on your interests:
 
