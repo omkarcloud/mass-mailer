@@ -126,7 +126,8 @@ Note: Both repositories are exactly same in terms of code and functionality. The
 
 For further help, ask your question in GitHub Discussions. We'll be happy to help you out.
 
-[![ask github](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/ask-on-github.png)](https://github.com/omkarcloud/mass-mailer/discussions)
+[![ask github](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/ask-on-github.png)](https://github.com/omkarcloud/outlook-account-generator/discussions)
+
 
 
 ## Love It? [Star It ⭐!](https://github.com/omkarcloud/mass-mailer)
