@@ -1,4 +1,4 @@
-![Mass Mailer Featured Image](https://raw.githubusercontent.com/omkarcloud/mass-mailer/master/images/mass-mailer-featured-image.png)
+![Mass Mailer Featured Image](https://raw.githubusercontent.com/omkarcloud/mass-mailer/master/images/mass-mailer-scraper-feautred-img.png)
 
 <div align="center" style="margin-top: 0;">
   <h1>🚀 Mass Mailer 📧</h1>
